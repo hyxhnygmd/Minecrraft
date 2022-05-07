@@ -1,6 +1,6 @@
 # Minecrraft
 
-Minecraft安卓版下载
+Minecraft第三方安卓版下载
 
 外国网站（下载慢，有网站带的外国服务器，不包括自带的7个服务器，更新比较快）https://mcpe-planet.com/downloads/
 
@@ -14,7 +14,7 @@ Minecraft安卓版下载
 
 请到Minecraft官网购买下载https://www.minecraft.net/zh-hans  
 
-谷歌商店加载不进去？请搭梯子，这里推荐免费aurora  https://arr002.network/about/
+谷歌商店加载不进去？请搭梯子，这里推荐免费aurora  https://arr002.network/about/ 最后下载的时候要下载谷歌商店
 
 想要玩Java版，但是嫌正版太贵？
 
