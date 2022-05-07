@@ -1,4 +1,4 @@
-# Minecrraft Download
+# Minecrraft
 
 Minecraft安卓版下载
 
