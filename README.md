@@ -36,4 +36,6 @@ Java服务器代理这里推荐免费的minehut 免费5人https://minehut.com/
 
 官方的基岩版搭建服务器https://www.minecraft.net/en-us/download/server/bedrock/
 
-我的世界世界个大论坛https://www.bilibili.com/read/cv9809328/ 仅限参考
+我的世界世界个大论坛https://www.bilibili.com/read/cv9809328/ 仅供参考
+
+怎么导入mods？http://www.minecraftxz.com/ 仅供参考
