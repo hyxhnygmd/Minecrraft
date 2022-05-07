@@ -12,7 +12,9 @@ Minecraft安卓版下载
 
 你想要在官网下载Minecraft国际版？
 
-请到Minecraft官网购买下载https://www.minecraft.net/zh-hans
+请到Minecraft官网购买下载https://www.minecraft.net/zh-hans  
+
+谷歌商店加载不进去？请搭梯子，这里推荐免费aurora  https://arr002.network/about/
 
 想要玩Java版，但是嫌正版太贵？
 
@@ -28,9 +30,9 @@ Minecraft安卓版下载
 
 想要有自己的服务器？
 
-Java服务器代理这里推荐免费的minehut 免费5人
+Java服务器代理这里推荐免费的minehut 免费5人https://minehut.com/
 
-基岩版服务器代理推测免费的aternos https://aternos.org/:zh-CN/
+基岩版服务器代理推测免费的aternos https://aternos.org/:zh-CN/ 但是一个账号只能有1个服务器，它的默认人数有20人！
 
 官方的基岩版搭建服务器https://www.minecraft.net/en-us/download/server/bedrock/
 
