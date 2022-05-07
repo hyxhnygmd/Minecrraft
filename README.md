@@ -42,6 +42,8 @@ Java服务器代理这里推荐免费的minehut 免费5人https://minehut.com/
 
 怎么导入mods？http://www.minecraftxz.com/ 仅供参考
 
+以上内容由hyxhnygmd（Xbox代号）整理
+
 English
 
 Minecraft Third Party Android Download
@@ -84,6 +86,8 @@ Minecraft World Forum https://www.bilibili.com/read/cv9809328/ For reference onl
 
 How to import mods? http://www.minecraftxz.com/ FYI
 
+The above content is organized by hyxhnygmd (Xbox codename).
+
 日本語
 
 MinecraftサードパーティAndroidダウンロード
@@ -125,3 +129,5 @@ Bedrock Editionサーバーエージェントは、無料のaternos https://ater
 Minecraft WorldForumhttps://www.bilibili.com/read/cv9809328/参照用のみ
 
 Modをインポートする方法は？ http://www.minecraftxz.com/ FYI
+
+上記のコンテンツは、hyxhnygmd (Xbox コードネーム) によって整理されています
