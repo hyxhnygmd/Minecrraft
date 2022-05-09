@@ -4,7 +4,7 @@
 
 Minecraft第三方安卓版下载
 
-外国网站（下载慢，有网站带的外国服务器，不包括自带的7个服务器，更新比较快）https://mcpe-planet.com/downloads/
+外国网站（下载慢，有网站自带的外国服务器，不包括自带的7个服务器，更新比较快）https://mcpe-planet.com/downloads/
 
 苦力怕论坛下载（更新比较慢}https://klpbbs.com/xz/
 
