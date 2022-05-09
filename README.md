@@ -24,7 +24,9 @@ Minecraft第三方安卓版下载
 
 本人还推荐1款不用Java的启动器：我的世界启动侠http://www.qidongxia.com/
 
-正版导入mods可以下载 overwolf：https://www.overwolf.com/和 forge： https://www.overwolf.com/
+正版导入mods可以下载 overwolf：https://www.overwolf.com/和 forge： https://files.minecraftforge.net/net/minecraftforge/forge/
+
+第三方可以自己直接在上面导入，（记住要装forge，版本匹配）再启动游戏
 
 玩Java版高版本玩不了？Java官网下载地址https://www.java.com/zh-CN/
 
@@ -40,9 +42,11 @@ Java服务器代理这里推荐免费的minehut 免费5人https://minehut.com/
 
 我的世界世界个大论坛https://www.bilibili.com/read/cv9809328/ 仅供参考
 
-怎么导入mods？http://www.minecraftxz.com/ 仅供参考
+怎么导入mods或地图？http://www.minecraftxz.com/ 仅供参考 （方法差不多）
 
 以上内容由hyxhnygmd（Xbox代号）整理
+
+有什么建议请联系 Email：wyxhnygmd@outlook.com
 
 English
 
@@ -64,11 +68,13 @@ Can't load google store? Please take the ladder, here we recommend free aurora h
 
 Want to play Java Edition, but think the original is too expensive?
 
-Please visit https://www.minecraftzw.com/20076.html
+Please go to https://www.minecraftzw.com/20076.html to check
 
 I also recommend a launcher without Java: Minecraft Launcher http://www.qidongxia.com/
 
-Genuine import mods can be downloaded overwolf: https://www.overwolf.com/ and forge: https://www.overwolf.com/
+Genuine import mods can be downloaded overwolf: https://www.overwolf.com/ and forge: https://files.minecraftforge.net/net/minecraftforge/forge/
+
+The third party can directly import it on it, (remember to install forge, the version matches) and then start the game
 
 Can't play the high version of Java Edition? Java official website download address https://www.java.com/zh-CN/
 
@@ -84,9 +90,11 @@ Official Bedrock Edition build server https://www.minecraft.net/en-us/download/s
 
 Minecraft World Forum https://www.bilibili.com/read/cv9809328/ For reference only
 
-How to import mods? http://www.minecraftxz.com/ FYI
+How to import mods or maps? http://www.minecraftxz.com/ for reference only (the method is similar)
 
-The above content is organized by hyxhnygmd (Xbox codename).
+The above content is organized by hyxhnygmd (Xbox code name)
+
+If you have any suggestions, please contact Email: wyxhnygmd@outlook.com
 
 日本語
 
@@ -108,11 +116,13 @@ Minecraftの公式ウェブサイトにアクセスしてhttps://www.minecraft.n
 
 Java Editionをプレイしたいのですが、オリジナルは高すぎると思いますか？
 
-https://www.minecraftzw.com/20076.htmlにアクセスしてください
+https://www.minecraftzw.com/20076.htmlにアクセスして確認してください
 
 Javaなしのランチャーもお勧めします：Minecraft Launcher http://www.qidongxia.com/
 
-本物のインポートMODは、overwolf：https://www.overwolf.com/およびforge：https://www.overwolf.com/からダウンロードできます。
+本物のインポートMODは、overwolf：https://www.overwolf.com/およびforge：https://files.minecraftforge.net/net/minecraftforge/forge/からダウンロードできます。
+
+サードパーティはそれを直接インポートして（forgeをインストールすることを忘れないでください、バージョンが一致します）、ゲームを開始できます
 
 Java Editionのハイバージョンを再生できませんか？ Java公式Webサイトのダウンロードアドレスhttps://www.java.com/zh-CN/
 
@@ -128,6 +138,8 @@ Bedrock Editionサーバーエージェントは、無料のaternos https://ater
 
 Minecraft WorldForumhttps://www.bilibili.com/read/cv9809328/参照用のみ
 
-Modをインポートする方法は？ http://www.minecraftxz.com/ FYI
+Modやマップをインポートする方法は？ http://www.minecraftxz.com/参照のみ（方法は類似しています）
 
-上記のコンテンツは、hyxhnygmd (Xbox コードネーム) によって整理されています
+上記のコンテンツはhyxhnygmd（Xboxコードネーム）で構成されています
+
+何か提案があれば、Eメールに連絡してください：wyxhnygmd@outlook.com
