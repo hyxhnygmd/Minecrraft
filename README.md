@@ -12,15 +12,19 @@ Minecraft第三方安卓版下载
 
 以上仅限Minecraft国际安卓版
 
+我的世界win10版下载:https://mcappx.remyyyz.com/
+
 你想要在官网下载Minecraft国际版？
 
 请到Minecraft官网购买下载https://www.minecraft.net/zh-hans  
 
-谷歌商店加载不进去？请搭梯子，这里推荐免费aurora  https://arr002.network/about/ 最后下载的时候要下载谷歌商店
+谷歌商店加载不进去？请搭梯子，这里推荐免费aurora  https://arr003.network/about/ 最后下载的时候要下载谷歌商店
 
 想要玩Java版，但是嫌正版太贵？
 
-请到https://www.minecraftzw.com/20076.html查看
+请到https://www.minecraftzw.com/20076.html查看(截止2020年6月)
+
+我的世界现在只需89元就能买Java版和基岩版:https://www.minecraft.net/store/checkout/minecraft-java-bedrock-edition-pc?region=US
 
 本人还推荐1款不用Java的启动器：我的世界启动侠http://www.qidongxia.com/
 
