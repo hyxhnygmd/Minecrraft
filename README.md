@@ -2,7 +2,7 @@
 
 中文
 
-Minecraft第三方安卓版下载
+Minecraft第三方免费安卓版下载
 
 外国网站（下载慢，有网站自带的外国服务器，不包括自带的7个服务器，更新比较快）https://mcpe-planet.com/downloads/
 
@@ -12,7 +12,7 @@ Minecraft第三方安卓版下载
 
 以上仅限Minecraft国际安卓版
 
-我的世界win10版下载:https://mcappx.remyyyz.com/
+我的世界win10版免费下载:https://mcappx.remyyyz.com/
 
 你想要在官网下载Minecraft国际版？
 
