@@ -22,7 +22,7 @@ Minecraft第三方免费安卓版下载
 
 想要玩Java版，但是嫌正版太贵？
 
-请到https://www.minecraftzw.com/20076.html查看(截止2020年6月)
+请到https://www.minecraftzw.com/20076.html查看
 
 我的世界现在只需89元就能买Java版和基岩版:https://www.minecraft.net/store/checkout/minecraft-java-bedrock-edition-pc?region=US
 
@@ -49,6 +49,12 @@ Java服务器代理这里推荐免费的minehut 免费5人https://minehut.com/
 Minecraft大论坛+官网https://www.bilibili.com/read/cv9809328/ 仅供参考
 
 怎么导入mods或地图？http://www.minecraftxz.com/ 仅供参考 （方法差不多）
+
+想要一个皮肤？所以人都能看见？
+
+Java版请到:https://optifine.net/capeChange 购买 
+
+基岩版自带免费皮肤，2019年的免费苦力怕披风现在已经失效无法领取
 
 以上内容由hyxhnygmd（Xbox代号）整理
 
