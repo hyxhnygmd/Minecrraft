@@ -22,6 +22,8 @@ armv8大部分手机、平板设备都可用，Minecraft be 1.16+考虑首选arm
 
 我的世界win10版免费下载:https://mcappx.remyyyz.com/
 
+Minecraft基岩版全版本库:https://mcarc.gitee.io/ (最好用的，更新最快
+
 你想要在官网下载Minecraft国际版？
 
 请到Minecraft官网购买下载https://www.minecraft.net/zh-hans  
