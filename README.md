@@ -8,7 +8,15 @@ Minecraft第三方免费安卓版下载
 
 苦力怕论坛下载（更新比较慢}https://klpbbs.com/xz/
 
-其他下载（华为部分下载不了，只有最新版本）https://cdn.xige2019.com/mc/%E6%AD%A3%E5%BC%8F%E7%89%88/%E7%A0%B4%E8%A7%A3%E7%89%88/armv8
+其他下载（华为部分下载不了，只有最新版本）https://cdn.xige2019.com/mc/%E6%AD%A3%E5%BC%8F%E7%89%88/%E7%A0%B4%E8%A7%A3%E7%89%88/armv8(已失效
+
+https://pan.bn1.top/mc/%E6%AD%A3%E5%BC%8F%E7%89%88/%E7%A0%B4%E8%A7%A3%E7%89%88/armv8
+
+https://pan.bn1.top/mc/%E6%AD%A3%E5%BC%8F%E7%89%88/%E7%A0%B4%E8%A7%A3%E7%89%88/armv7
+
+armv7几乎所有手机、平板设备都可用，Minecraft be 0.1-1.14考虑首选armv7。
+
+armv8大部分手机、平板设备都可用，Minecraft be 1.16+考虑首选armv8，旧机型可能无法运行(旧：约2016年之前)。
 
 以上仅限Minecraft国际安卓版
 
