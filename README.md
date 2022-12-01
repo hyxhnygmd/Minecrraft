@@ -64,6 +64,10 @@ Java版请到:https://optifine.net/capeChange 购买
 
 基岩版自带免费皮肤，2019年的免费苦力怕披风现在已经失效无法领取
 
+【Minecraft 隐藏皮肤包的获取方法-国际基岩版-哔哩哔哩】 https://b23.tv/XA3Z9AF
+
+【MCBE免费领取基岩版官方隐藏皮肤包-哔哩哔哩】 https://b23.tv/dekSz6T
+
 以上内容由hyxhnygmd（Xbox代号）整理
 
 有什么建议请联系 Email：wyxhnygmd@outlook.com
