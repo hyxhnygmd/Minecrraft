@@ -18,6 +18,8 @@ armv7几乎所有手机、平板设备都可用，Minecraft be 0.1-1.14考虑首
 
 armv8大部分手机、平板设备都可用，Minecraft be 1.16+考虑首选armv8，旧机型可能无法运行(旧：约2016年之前)。
 
+mcpedlorg下载：https://mcpedl.org/downloading/
+
 以上仅限Minecraft国际安卓版
 
 我的世界win10版免费下载:https://mcappx.remyyyz.com/
@@ -30,7 +32,7 @@ Minecraft基岩版全版本库:https://mcarc.gitee.io/ (最好用的，更新最
 
 请到Minecraft官网购买下载https://www.minecraft.net/zh-hans  
 
-谷歌商店加载不进去？请搭梯子，这里推荐免费aurora  https://arr003.network/about/ 最后下载的时候要下载谷歌商店
+谷歌商店加载不进去？请搭梯子，这里推荐免费aurora  https://arr007.network/about/ 最后下载的时候要下载谷歌商店 VPN链接进不去，网上搜aurora
 
 想要玩Java版，但是嫌正版太贵？
 
