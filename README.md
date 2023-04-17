@@ -58,7 +58,9 @@ Minecraft基岩版全版本库:https://mcarc.gitee.io/ (最好用的，更新最
 
 Java服务器代理这里推荐免费的minehut 免费5人https://minehut.com/
 
-基岩版服务器代理推测免费的aternos https://aternos.org/:zh-CN/ 但是一个账号只能有1个服务器，它的默认人数有20人！
+免费的aternos https://aternos.org/:zh-CN/ 但是一个账号只能有1个服务器，它的默认人数有20人！
+
+国内免费的幻简云
 
 官方的基岩版搭建服务器https://www.minecraft.net/en-us/download/server/bedrock/
 
