@@ -28,7 +28,7 @@ Minecraft基岩版全版本库:https://mcarc.gitee.io/ (最好用的，更新最
 
 或者https://mcbbk.blmcpia.com/
 
-或者https://mc.minebbs.com(正式版)      https://mc.minebbs.com/#/android/beta(测试版)
+或者https://mc.minebbs.com   (正式版)      https://mc.minebbs.com/#/android/beta   (测试版)
 
 你想要在官网下载Minecraft国际版？
 
