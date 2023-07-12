@@ -10,15 +10,17 @@ Minecraft第三方免费安卓版下载
 
 其他下载（华为部分下载不了，只有最新版本）https://cdn.xige2019.com/mc/%E6%AD%A3%E5%BC%8F%E7%89%88/%E7%A0%B4%E8%A7%A3%E7%89%88/armv8  (已失效
 
-armv8:https://pan.bn1.top/mc/%E6%AD%A3%E5%BC%8F%E7%89%88/%E7%A0%B4%E8%A7%A3%E7%89%88/armv8
+armv8:https://pan.bn1.top/mc/%E6%AD%A3%E5%BC%8F%E7%89%88/%E7%A0%B4%E8%A7%A3%E7%89%88/armv8  (已失效)
 
-armv7:https://pan.bn1.top/mc/%E6%AD%A3%E5%BC%8F%E7%89%88/%E7%A0%B4%E8%A7%A3%E7%89%88/armv7
+armv7:https://pan.bn1.top/mc/%E6%AD%A3%E5%BC%8F%E7%89%88/%E7%A0%B4%E8%A7%A3%E7%89%88/armv7(已失效)
 
 armv7几乎所有手机、平板设备都可用，Minecraft be 0.1-1.14考虑首选armv7。
 
 armv8大部分手机、平板设备都可用，Minecraft be 1.16+考虑首选armv8，旧机型可能无法运行(旧：约2016年之前)。
 
 mcpedlorg下载：https://mcpedl.org/downloading/
+
+an1下载(有破解版)：https://an1.com/7190-minecraft-mod.html
 
 以上仅限Minecraft国际安卓版
 
@@ -52,32 +54,41 @@ Minecraft基岩版全版本库:https://mcarc.gitee.io/ (最好用的，更新最
 
 请下载Java17  https://klpbbs.com/thread-19539-1-1.html 捆绑包里有个鲁大师，下载完删掉
 
-或官网下载:https://www.oracle.com/java/technologies/downloads/#java17  (下载特别慢，不推荐)
+或官网下载：https：//www.oracle.com/java/technologies/downloads/#java17(下载特别慢，不推荐)
 
 想要有自己的服务器？
 
-Java服务器代理这里推荐免费的minehut 免费5人https://minehut.com/
+Java服务器代理这里推荐免费的minehut免费5人https://minehut.com/
 
-免费的aternos https://aternos.org/:zh-CN/ 但是一个账号只能有1个服务器，它的默认人数有20人！
+免费的aternos https://aternos.org/:zh-CN/但是一个账号只能有1个服务器，它的默认人数有20人！
 
 国内免费的幻简云
 
 官方的基岩版搭建服务器https://www.minecraft.net/en-us/download/server/bedrock/
 
-Minecraft大论坛+官网https://www.bilibili.com/read/cv9809328/ 仅供参考
+我的世界大论坛+官网https://www.bilibili.com/read/cv9809328/仅供参考
 
-怎么导入mods或地图？http://www.minecraftxz.com/ 仅供参考 （方法差不多）
+怎么导入mods或地图？http://www.minecraftxz.com/仅供参考(方法差不多)
 
-想要一个皮肤？所以人都能看见？
+想要一个披风？ 所以人都能看见？
 
-Java版请到:https://optifine.net/capeChange 购买 
+Java版请到：https：//optifine.net/capeChange购买
 
 基岩版自带免费皮肤，2019年的免费苦力怕披风现在已经失效无法领取
 
-【Minecraft 隐藏皮肤包的获取方法-国际基岩版-哔哩哔哩】 https://b23.tv/XA3Z9AF
+[Minecraft隐藏皮肤包的获取方法-国际基岩版-哔哔哩哔哩]https://b23.tv/XA3Z9AF
 
-【MCBE免费领取基岩版官方隐藏皮肤包-哔哩哔哩】 https://b23.tv/dekSz6T
+[MCBE免费领取基岩版官方隐藏皮肤包-哔哔哩哩]https://b23.tv/dekSz6T
 
-以上内容由hyxhnygmd（Xbox代号）整理
+或改包，使用mt管理器，通过改安装包里的Skin中的个人的文件改(电脑版一样)，mt管理器只是安卓版改包，改文件时都要有签名，不然无法安装
 
-有什么建议请联系 Email：wyxhnygmd@outlook.com
+基岩版想要装光影
+基岩版只能装光追和渲染龙
+光追配置要求较高至少RTX2060
+渲染龙任何配置基本可以(不要太老)
+开光影只能改包，有些包里的光影和光追差不多，手机配置最低要求骁龙845，电脑核显7代i5
+改包通过改renderdragon(渲染龙)的材料
+
+以上内容由hyxhnygmd(Xbox代号）整理
+
+有什么建议请联系电子邮件：wyxhnygmd@outlook.com
